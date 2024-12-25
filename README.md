@@ -1,6 +1,6 @@
 # WCSS Computer Science Club Website 🌐💻
 
-![WCSS Computer Science Club](readme.png)
+![WCSS Computer Science Club](readme.png){: width="300" }
 
 ## Empowering Innovation of High School Students 📚🚀
 Welcome to the **WCSS Computer Science Club**! We are dedicated to fostering a dynamic environment for students with a passion for coding and computational systems. Our mission is to create a vibrant community that embraces diversity, welcomes students from all backgrounds, and offers a platform for growth and learning in the realm of computer science.
